@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on demais códigos de JS
 - 📫 How to reach me pelo e-mail rafael.szcz@yahoo.com.br
-- ⚡ Fun fact: Sou bancário e bacharel em Engenharia de produção pela FIAP.
+- ⚡ Fun fact: Sou bancário, bacharel em Engenharia de produção  e Desenvolvedor Full Stack pela FIAP.
 
 <!---
 RafaelSzcz/RafaelSzcz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
